@@ -1,0 +1,6 @@
+INSTALLATION
+============
+
+1. Copy the "MobileCube" folder into the "skins" folder of the roundcube directory.
+2. Set $rcmail_config['skin'] in your roundcube config (config/main.inc.php) file to 'MobileCube'.
+3. You may now login and enjoy your theme!
